@@ -1,14 +1,14 @@
 # 🤖 SmallBotTrials (Unity)
 
 Proyecto desarrollado en equipo durante el ciclo **Desarrollo de Aplicaciones Web (DAW)** por **Alex Cobas** y **David Ragus**.  
-Juego 2.5D con mecánica de **grappling hook** (gancho) y físicas realistas, enfocado en **aprender y practicar scripting en C# y física en Unity**.
+Juego 2.5D con mecánica de **grappling hook** (gancho), físicas realistas y personaje modelado en **Blender**, enfocado en **aprender y practicar scripting en C#, física en Unity y modelado 3D**.
 
 ---
 
 ## 🧠 Descripción del proyecto
 
 SmallBotTrials es un juego 2.5D donde el jugador controla un robot que se desplaza utilizando un gancho que se engancha en objetos.  
-Incluye física realista, colisiones, movimiento fluido y cámara dinámica.  
+Incluye física realista, colisiones, movimiento fluido, cámara dinámica y modelo 3D del personaje creado en **Blender**.  
 El proyecto fue desarrollado en equipo con el objetivo de **aprender Unity, C# y mecánicas de juego interactivas**.
 
 ---
@@ -17,6 +17,7 @@ El proyecto fue desarrollado en equipo con el objetivo de **aprender Unity, C# y
 
 - **Unity 2021+**  
 - **C#**  
+- **Blender** (modelado del personaje)  
 - Físicas 2.5D  
 - Input y cámara dinámica  
 - Animaciones básicas y efectos visuales
@@ -29,6 +30,7 @@ El proyecto fue desarrollado en equipo con el objetivo de **aprender Unity, C# y
 - Movimiento fluido en entorno 2.5D  
 - Interacción con colisiones y gravedad  
 - Cámara dinámica que sigue al jugador  
+- Personaje modelado en Blender  
 - Sistema básico de físicas y control de jugador  
 
 > El proyecto fue desarrollado en **equipo**, compartiendo todas las tareas para aprender al máximo.
@@ -40,6 +42,7 @@ El proyecto fue desarrollado en equipo con el objetivo de **aprender Unity, C# y
 - Programación en **C# en Unity**  
 - Implementación de físicas realistas para el gancho y el movimiento  
 - Control de cámara y efectos visuales  
+- Modelado de personaje en **Blender**  
 - Organización de un proyecto completo en Unity
 
 ---
