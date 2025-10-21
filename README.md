@@ -52,3 +52,6 @@ El proyecto fue desarrollado en equipo con el objetivo de **aprender Unity, C# y
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/Acobasz/smallbottrials.git
+```
+2. Abrir Unity Hub y seleccionar Add project → seleccionar la carpeta del proyecto.
+3. Abrir la escena principal ubicada en Assets/Scenes/Main.unity
